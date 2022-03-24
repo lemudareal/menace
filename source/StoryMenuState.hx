@@ -45,7 +45,7 @@ class StoryMenuState extends MusicBeatState
         ['pico', 'bf', 'gf'],
         ['mom', 'bf', 'gf'],
         ['parents-christmas', 'bf', 'gf'],
-        ['senpai', 'bf', 'gf']
+        ['senpai', 'bf', 'gf'],
         ['dad', 'bf', 'gf']
     ];
 
